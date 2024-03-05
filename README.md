@@ -1,9 +1,9 @@
 FUNFIT
 ## Requirements
-Java            :    17.0.10
-Tomcat server   :    9.0
-OS              :    win32 x64
-IDE (eclipse or other) 
+1. Java            :    17.0.10
+2. Tomcat server   :    9.0
+3. OS              :    win32 x64
+4. IDE (eclipse or other) 
 
 ## To install this project in your pc
 Note : Make sure that you have Java and tomcat server is  installed in your system to use this application.
